@@ -6,7 +6,3 @@ This is DSS(Decision Support Systems) course project. We used the [Digits Datase
 - K Nearest Neighbour(KNN).
 - Logistic Regression.
 - Decision Trees.
-
-## Team Members:
-- Mohamed Ashraf El-Melegy.
-- Abd-Alrahman Yousry Badr.
